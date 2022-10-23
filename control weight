@@ -1,0 +1,53 @@
+<!-- wp:gallery {"linkTo":"none"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":50,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2022/10/2.jpg" alt="" class="wp-image-50"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:heading -->
+<h2>Healthy  Eating</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>An eating plan that helps manage your weight includes a variety of healthy foods. Add an array of colors to your plate and think of it as eating the rainbow. Dark, leafy greens, oranges, and tomatoes—even fresh herbs—are loaded with vitamins, fiber, and minerals. Adding frozen peppers, broccoli, or onions to stews and omelets gives them a quick and convenient boost of color and nutrients.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;a healthy eating plan:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Emphasizes fruits, vegetables, whole grains, and fat-free or low-fat milk and milk products</li><li>Includes a variety of protein foods such as seafood, lean meats and poultry, eggs, legumes (beans and peas), soy products, nuts, and seeds.</li><li>Is low in <a href="https://www.cdc.gov/healthyweight/healthy_eating/sugar.html">added sugars</a>, <a href="https://www.cdc.gov/salt/food.htm">sodium</a>, saturated fats, <em>trans fats</em>, and cholesterol.</li><li>Stays within your daily calorie needs</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>assessing weight</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2>How to Measure and Interpret Weight Status</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Adult Body Mass Index or BMI</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>BMI is a person’s weight in kilograms divided by the square of height in meters. A high BMI can indicate high body fatness, and a low BMI can indicate too low body fatness. To calculate your BMI, see the <a href="https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/english_bmi_calculator/bmi_calculator.html">BMI Calculator</a>. Or determine your BMI by finding your height and weight in this <a href="http://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmi_tbl.htm">BMI Index Chart</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmi_tbl.htm">external icon</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><strong>If your BMI is less than 18.5</strong>, it falls within the underweight range.</li><li><strong>If your BMI is 18.5 to 24.9</strong>, it falls within the normal or Healthy Weight range.</li><li><strong>If your BMI is 25.0 to 29.9</strong>, it falls within the overweight range.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>     <strong>If your BMI is 30.0 or higher</strong>, it falls within the obese range.</p>
+<!-- /wp:paragraph -->
