@@ -33,13 +33,4 @@ Project Link - https://gymson.azurewebsites.net/
 * Bootstrap
 * JavaScript
 
-## Release
-No releases published
-
-## Packages
-No packages published
-
-## Languages used
-- HTML
-
 
