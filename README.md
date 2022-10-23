@@ -31,7 +31,7 @@ Project Link - https://gymson.azurewebsites.net
 * CSS
 * Bootstrap
 * JavaScript
-* 
+
 ## Release
 No releases published
 
