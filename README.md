@@ -1,3 +1,4 @@
+# pumpedhome
 # ✨ Pumped Home ✨
 
 This is a web based application developed for Gym related website based on the food have to take by the person at the gym time,how much time to take a sleep ,measures to control the weight,defeciences and health care measures are the factors included in this website
@@ -37,5 +38,8 @@ No releases published
 
 ## Packages
 No packages published
+
+## Languages used
+- HTML
 
 
