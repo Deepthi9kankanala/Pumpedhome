@@ -12,6 +12,7 @@ Project Link - https://gymson.azurewebsites.net
 * Has collection of many web pages including Home, about us, Contact, Menu, sleep,control weight,physical activity and health related information etc.
 * User can know about  physical health information through this website.
 # screenshots
+
 ## control weight
 ![Screenshot (90)](https://user-images.githubusercontent.com/85917308/197374768-f78efd0f-b90a-46fc-b0f4-fb71140bf4d5.png)
 
@@ -23,15 +24,18 @@ Project Link - https://gymson.azurewebsites.net
 ![Screenshot (92)](https://user-images.githubusercontent.com/85917308/197374726-5a5bdf46-db63-4e1e-ab44-07f70df75093.png)
 ## Privacy Policy
 ![Screenshot (93)](https://user-images.githubusercontent.com/85917308/197374756-0ef1bd1c-ef41-48b1-b63b-2677919b2df1.png)
-Tech Stack 💻
+
+ # Tech Stack 💻
 * Azure(Hosting)
 * HTML
 * CSS
 * Bootstrap
 * JavaScript
+* 
 ## Release
 No releases published
+
 ## Packages
 No packages published
-## Languages
-<code><image height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fcale82350fe83517d3494d/topics/html/html.png"></code>
+
+
