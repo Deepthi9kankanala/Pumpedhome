@@ -1,6 +1,8 @@
-#✨ Pumped Home ✨
+# ✨ Pumped Home ✨
+
 This is a web based application developed for Gym related website based on the food have to take by the person at the gym time,how much time to take a sleep ,measures to control the weight,defeciences and health care measures are the factors included in this website
 This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+
 Project Link - https://gymson.azurewebsites.net
 # Features and Functionalities 😃
 * Interactive and responsive UI.
