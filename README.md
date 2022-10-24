@@ -141,7 +141,8 @@ Project Link - https://gymson.azurewebsites.net/
 ## Privacy Policy
 
 
-![Screenshot (93)](https://user-images.githubusercontent.com/85917308/197374756-0ef1bd1c-ef41-48b1-b63b-2677919b2df1.png)
+![Screenshot (118)](https://user-images.githubusercontent.com/85917308/197533045-98a35aed-63ce-4cca-8b40-e1b287dbc147.png)
+
 
 
 
